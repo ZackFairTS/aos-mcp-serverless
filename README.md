@@ -48,7 +48,6 @@ This project is a Lambda-based MCP (Model Context Protocol) server designed for 
 
 ```bash
 git clone <repository-url>
-cd aos_mcp_cn
 ```
 
 2. Build the project
